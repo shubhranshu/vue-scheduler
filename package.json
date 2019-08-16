@@ -18,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/shubhranshu/vue-scheduler/issues"
   },
-  "homepage": "https://github.com/shubhranshu/vue-scheduler#readme"
+  "homepage": "https://github.com/shubhranshu/vue-scheduler#readme",
+  "devDependencies": {
+  }
 }
